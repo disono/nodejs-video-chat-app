@@ -1,2 +1,1 @@
-# nodejs-video-chat-app
-NodeJS Video Chat App
+# NodeJS Video Chat App
